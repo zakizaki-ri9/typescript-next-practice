@@ -9,7 +9,7 @@
     "commitizen": "^4.0.3",
     "cz-conventional-changelog-ja": "^0.0.2",
     "eslint": "^6.4.0",
-    "husky": "^3.0.5",
+    "husky": "^4.2.5",
     "lint-staged": "^9.2.5",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.3"
